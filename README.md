@@ -1,4 +1,4 @@
-[![hogehoge's github stats]https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryu0118&theme=dracula](https://github.com/Ryu0118)
+[![hogehoge's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryu0118&theme=dracula)](https://github.com/Ryu0118)
 
 <!---
 Ryu0118/Ryu0118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
