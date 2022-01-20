@@ -1,7 +1,7 @@
 # Profile
-I'm a college student studying electrical and electronic engineering.
+🎓　I'm a college student studying electrical and electronic engineering.
 
-I'm developing iOS applications.
+🎓　I'm developing iOS applications.
 
 ## Status
 [![Ryu0118's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryu0118&theme=dracula)](https://github.com/Ryu0118)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu0118&layout=compact)](https://github.com/Ryu0118)
