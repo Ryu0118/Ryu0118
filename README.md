@@ -11,5 +11,7 @@
 </p>
 <p align="left"> 
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryu0118&theme=outrun&show_icons=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryu0118&repo=Kusa&theme=outrun" />
+  <a href="https://github.com/Ryu0118/Kusa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryu0118&repo=Kusa&theme=outrun" />
+  <a/>
 </p>
