@@ -9,13 +9,10 @@
 
  ![graph ](https://activity-graph.herokuapp.com/graph?color=87cefa&username=Ryu0118&theme=xcode&hide_border=true&area=true)
  
-<p align="left"> 
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu0118&layout=compact&hide=html,css" />
+<p align="center"> 
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Ryu0118&theme=onedark&no-frame=true&row=1&column=5&margin-w=6&no-bg=true" />
 </p>
-<p align="left"> 
+<p align="center"> 
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryu0118&theme=outrun&show_icons=true"/>
-  <a href="https://github.com/Ryu0118/Kusa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryu0118&repo=Kusa&theme=outrun" />
-  <a/>
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu0118&layout=compact&hide=html,css&theme=outrun" />
 </p>
