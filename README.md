@@ -13,6 +13,6 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Ryu0118&theme=onedark&no-frame=true&row=1&column=5&margin-w=6&no-bg=true" />
 </p>
 <p align="center"> 
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryu0118&theme=outrun&show_icons=true"/>
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryu0118&theme=outrun&show_icons=true&count_private=true"/>
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu0118&layout=compact&hide=html,css&theme=outrun" />
 </p>
