@@ -22,6 +22,6 @@
   <img align="center" height="150px" src="https://git-hub-readme-stats-clone-gpqp.vercel.app/api?username=Ryu0118&theme=outrun&show_icons=true&count_private=true"/>
 </p>
 <p align="center"> 
-  <img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=RemoteControl&theme=outrun" />
-  <img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=EnumGen&theme=outrun"/>
+  <a href="https://github.com/Ryu0118/RemoteControl"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=RemoteControl&theme=outrun" /></a>
+  <a href="https://github.com/Ryu0118/EnumGen"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=EnumGen&theme=outrun"/></a>
 </p>
