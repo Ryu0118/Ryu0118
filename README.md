@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Ryu0118&color=blueviolet)
 # Profile
 🎓　I'm a college student studying electrical and electronic engineering.
 
