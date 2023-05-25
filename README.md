@@ -27,5 +27,5 @@
 </p>
 <p align="center"> 
   <a href="https://github.com/Ryu0118/Sorter"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=Sorter&theme=outrun" /></a>
-  <a href="https://github.com/Ryu0118/swift-dependencies-graph"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=swift-dependencies-graph&theme=outrun" />
+  <a href="https://github.com/Ryu0118/XCContributeRank"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=XCContributeRank&theme=outrun" />
 </p>
