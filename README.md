@@ -5,7 +5,7 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Ryu0118/posts.svg)](http://qiita.com/Ryu0118)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Ryu0118/contributions.svg)](http://qiita.com/Ryu0118)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Ryu0118/followers.svg)](http://qiita.com/Ryu0118)
-# Profile
+# About Me!!
 🎓　I'm a college student studying electrical and electronic engineering.
 
 📱　I'm developing iOS applications.
