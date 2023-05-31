@@ -26,6 +26,6 @@
   <a href="https://github.com/Ryu0118/EnumGen"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=EnumGen&theme=outrun"/></a>
 </p>
 <p align="center"> 
-  <a href="https://github.com/Ryu0118/Sorter"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=Sorter&theme=outrun" /></a>
+  <a href="https://github.com/Ryu0118/SRCircleProgress"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=SRCircleProgress&theme=outrun" /></a>
   <a href="https://github.com/Ryu0118/XCContributeRank"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=XCContributeRank&theme=outrun" />
 </p>
