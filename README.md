@@ -24,14 +24,14 @@
 ## 📍 Pin Repositories
 
 <p align="leading"> 
-  <a href="https://github.com/Ryu0118/RemoteControl"><img align="center" height="90px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=RemoteControl&theme=outrun" /></a>
-  <a href="https://github.com/Ryu0118/EnumGen"><img align="center" height="90px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=EnumGen&theme=outrun"/></a>
-  <a href="https://github.com/Ryu0118/SRCircleProgress"><img align="center" height="90px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=SRCircleProgress&theme=outrun" /></a>
+  <a href="https://github.com/Ryu0118/RemoteControl"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=RemoteControl&theme=outrun" /></a>
+  <a href="https://github.com/Ryu0118/EnumGen"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=EnumGen&theme=outrun"/></a>
+  <a href="https://github.com/Ryu0118/SRCircleProgress"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=SRCircleProgress&theme=outrun" /></a>
 </p>
 <p align="leading"> 
-  <a href="https://github.com/Ryu0118/XCContributeRank"><img align="center" height="90px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=XCContributeRank&theme=outrun" />
-  <a href="https://github.com/Ryu0118/KeyPathIterable"><img align="center" height="90px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=KeyPathIterable&theme=outrun" /></a>
-  <a href="https://github.com/Ryu0118/CodingKeysMacro"><img align="center" height="90px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=CodingKeysMacro&theme=outrun" /></a>
+  <a href="https://github.com/Ryu0118/XCContributeRank"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=XCContributeRank&theme=outrun" />
+  <a href="https://github.com/Ryu0118/KeyPathIterable"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=KeyPathIterable&theme=outrun" /></a>
+  <a href="https://github.com/Ryu0118/CodingKeysMacro"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=CodingKeysMacro&theme=outrun" /></a>
 </p>
 <p align="leading"> 
 </p>
