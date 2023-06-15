@@ -15,7 +15,7 @@
 
 ##
 <p align="center"> 
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Ryu0118&theme=algolia&no-frame=true&row=1&column=7&margin-w=6&no-bg=true" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Ryu0118&theme=algolia&no-frame=false&column=8&margin-w=6&no-bg=false" />
 </p>
 <p align="center"> 
   <img align="center" height="150px" src="https://git-hub-readme-stats-clone-gpqp.vercel.app/api/top-langs/?username=Ryu0118&layout=compact&hide=html,css&theme=outrun" />
