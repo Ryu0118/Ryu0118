@@ -14,15 +14,13 @@
 <a href="https://apps.apple.com/us/app/study-analysis/id1588660635?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 170px; height: 56.44px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ja-jp?size=250x83&amp;releaseDate=1636588800&amp;h=14686f5e6cca0a1d7adf5d55bda66cdc" alt="Download on the App Store" style="border-radius: 13px; width: 170px; height: 56.44px;"></a>
 
 ##
+![](https://github-profile-trophy.vercel.app/?username=Ryu0118&theme=algolia&no-frame=false&column=8&margin-w=6&no-bg=false)
 <p align="center"> 
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Ryu0118&theme=algolia&no-frame=false&column=8&margin-w=6&no-bg=false" />
+  <img align="center" width="41%" src="https://git-hub-readme-stats-clone-gpqp.vercel.app/api/top-langs/?username=Ryu0118&layout=compact&hide=html,css&theme=outrun" />
+  <img align="center" height="59%" src="https://git-hub-readme-stats-clone-gpqp.vercel.app/api?username=Ryu0118&theme=outrun&show_icons=true&count_private=true"/>
 </p>
 <p align="center"> 
-  <img align="center" height="150px" src="https://git-hub-readme-stats-clone-gpqp.vercel.app/api/top-langs/?username=Ryu0118&layout=compact&hide=html,css&theme=outrun" />
-  <img align="center" height="150px" src="https://git-hub-readme-stats-clone-gpqp.vercel.app/api?username=Ryu0118&theme=outrun&show_icons=true&count_private=true"/>
-</p>
-<p align="center"> 
-  <a href="https://github.com/Ryu0118/RemoteControl"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=RemoteControl&theme=outrun" /></a>
+  <a href="https://github.com/Ryu0118/RemoteControl"><img align="center" width="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=RemoteControl&theme=outrun" /></a>
   <a href="https://github.com/Ryu0118/EnumGen"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=EnumGen&theme=outrun"/></a>
 </p>
 <p align="center"> 
