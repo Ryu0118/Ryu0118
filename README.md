@@ -23,21 +23,16 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Ryu0118&limit=10&theme=outrun&combine_all_yearly_contributions=true&hide=B)
 
 ## 📍 Pin Repositories
-![](https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=RemoteControl&theme=outrun)
-![](https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=EnumGen&theme=outrun)
-![](https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=SRCircleProgress&theme=outrun)
-![](https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=XCContributeRank&theme=outrun)
-![](https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=KeyPathIterable&theme=outrun)
-![](https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=CodingKeysMacro&theme=outrun)
-<p align="center"> 
+
+<p align="leading"> 
   <a href="https://github.com/Ryu0118/RemoteControl"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=RemoteControl&theme=outrun" /></a>
   <a href="https://github.com/Ryu0118/EnumGen"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=EnumGen&theme=outrun"/></a>
 </p>
-<p align="center"> 
+<p align="leading"> 
   <a href="https://github.com/Ryu0118/SRCircleProgress"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=SRCircleProgress&theme=outrun" /></a>
   <a href="https://github.com/Ryu0118/XCContributeRank"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=XCContributeRank&theme=outrun" />
 </p>
-<p align="center"> 
+<p align="leading"> 
   <a href="https://github.com/Ryu0118/KeyPathIterable"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=KeyPathIterable&theme=outrun" /></a>
   <a href="https://github.com/Ryu0118/CodingKeysMacro"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=CodingKeysMacro&theme=outrun" /></a>
 </p>
