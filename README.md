@@ -18,22 +18,21 @@
 ## 🚀 Github Stats
 
 <img align="center" height="180px" src="https://git-hub-readme-stats-clone-gpqp.vercel.app/api?username=Ryu0118&theme=outrun&show_icons=true&count_private=true" />
-<img align="center" height="180px" src="https://git-hub-readme-stats-clone-gpqp.vercel.app/api/top-langs/?username=Ryu0118&layout=compact&hide=html,css&theme=outrun" />
 
 ![](https://github-contributor-stats.vercel.app/api?username=Ryu0118&limit=10&theme=outrun&combine_all_yearly_contributions=true&hide=B)
 
 ## 📍 Pin Repositories
 
 <p align="leading"> 
-  <a href="https://github.com/Ryu0118/RemoteControl"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=RemoteControl&theme=outrun" /></a>
-  <a href="https://github.com/Ryu0118/EnumGen"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=EnumGen&theme=outrun"/></a>
+  <a href="https://github.com/Ryu0118/RemoteControl"><img align="center" height="90px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=RemoteControl&theme=outrun" /></a>
+  <a href="https://github.com/Ryu0118/EnumGen"><img align="center" height="90px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=EnumGen&theme=outrun"/></a>
+  <a href="https://github.com/Ryu0118/SRCircleProgress"><img align="center" height="90px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=SRCircleProgress&theme=outrun" /></a>
 </p>
 <p align="leading"> 
-  <a href="https://github.com/Ryu0118/SRCircleProgress"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=SRCircleProgress&theme=outrun" /></a>
-  <a href="https://github.com/Ryu0118/XCContributeRank"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=XCContributeRank&theme=outrun" />
+  <a href="https://github.com/Ryu0118/XCContributeRank"><img align="center" height="90px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=XCContributeRank&theme=outrun" />
+  <a href="https://github.com/Ryu0118/KeyPathIterable"><img align="center" height="90px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=KeyPathIterable&theme=outrun" /></a>
+  <a href="https://github.com/Ryu0118/CodingKeysMacro"><img align="center" height="90px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=CodingKeysMacro&theme=outrun" /></a>
 </p>
 <p align="leading"> 
-  <a href="https://github.com/Ryu0118/KeyPathIterable"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=KeyPathIterable&theme=outrun" /></a>
-  <a href="https://github.com/Ryu0118/CodingKeysMacro"><img align="center" height="110px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=CodingKeysMacro&theme=outrun" /></a>
 </p>
 
