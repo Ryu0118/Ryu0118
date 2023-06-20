@@ -32,5 +32,5 @@
 </p>
 <p align="leading"> 
   <a href="https://github.com/Ryu0118/SRCircleProgress"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=SRCircleProgress&theme=outrun" /></a>
-  <a href="https://github.com/Ryu0118/CodingKeysMacro"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=CodingKeysMacro&theme=outrun" /></a>
+  <a href="https://github.com/Ryu0118/Sorter"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=Sorter&theme=outrun" /></a>
 </p>
