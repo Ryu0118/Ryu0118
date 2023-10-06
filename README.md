@@ -38,3 +38,6 @@
   <a href="https://github.com/Ryu0118/Pool"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=Pool&theme=outrun" /></a>
   <a href="https://github.com/Ryu0118/swift-composable-architecture-extras"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=swift-composable-architecture-extras&theme=outrun" /></a>
 </p>
+<p align="leading"> 
+  <a href="https://github.com/Ryu0118/swift-dependencies-macro"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=swift-dependencies-macro&theme=outrun" /></a>
+</p>
