@@ -24,7 +24,7 @@
 
 <p align="leading"> 
   <a href="https://github.com/Ryu0118/swift-dependencies-macro"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=swift-dependencies-macro&theme=outrun" /></a>
-  <a href="https://github.com/Ryu0118/EnumGen"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=EnumGen&theme=outrun"/></a>
+  <a href="https://github.com/Ryu0118/swift-fullscreen-popup"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=swift-fullscreen-popup&theme=outrun"/></a>
 </p>
 <p align="leading"> 
   <a href="https://github.com/Ryu0118/XCContributeRank"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=XCContributeRank&theme=outrun" />
@@ -37,4 +37,8 @@
 <p align="leading"> 
   <a href="https://github.com/Ryu0118/Pool"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=Pool&theme=outrun" /></a>
   <a href="https://github.com/Ryu0118/swift-composable-architecture-extras"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=swift-composable-architecture-extras&theme=outrun" /></a>
+</p>
+<p align="leading"> 
+  <a href="https://github.com/Ryu0118/RemoteControl"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=RemoteControl&theme=outrun" /></a>
+  <a href="https://github.com/Ryu0118/TouchSimulator-iOS14"><img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/pin?username=Ryu0118&repo=TouchSimulator-iOS14&theme=outrun" /></a>
 </p>
