@@ -17,7 +17,7 @@
 
 ## 🚀 Github Stats
 
-<img align="center" height="180px" src="https://git-hub-readme-stats-clone-gpqp.vercel.app/api?username=Ryu0118&theme=outrun&show_icons=true&count_private=true" />
+<img align="center" height="180px" src="https://git-hub-readme-stats-clone-gpqp.vercel.app/api?username=Ryu0118&theme=outrun&show_icons=true&count_private=true&cache_seconds=1" />
 <img align="center" height="320px" src="https://github-contributor-stats.vercel.app/api?username=Ryu0118&limit=10&theme=outrun&combine_all_yearly_contributions=true&hide=B" />
 
 ## 📍 Pinned Repositories
