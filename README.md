@@ -2,9 +2,7 @@
 ![](https://img.shields.io/github/followers/Ryu0118?style=social)
 ![](https://img.shields.io/github/stars/Ryu0118?style=social)
 ![](https://img.shields.io/twitter/follow/ryu_hu03?style=social)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Ryu0118/posts.svg)](http://qiita.com/Ryu0118)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Ryu0118/contributions.svg)](http://qiita.com/Ryu0118)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/Ryu0118/followers.svg)](http://qiita.com/Ryu0118)
+
 # About Me
 🎓　I'm a college student studying electrical and electronic engineering.
 
