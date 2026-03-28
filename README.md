@@ -5,6 +5,7 @@
 
 # About Me
 🤖 No longer a software engineer. Just whipping AI.
+
 📱 Formerly an iOS App Developer.
 
 <a href="https://apps.apple.com/us/app/drivetracker-driving-log/id6754501628" style="display: inline-block;">
